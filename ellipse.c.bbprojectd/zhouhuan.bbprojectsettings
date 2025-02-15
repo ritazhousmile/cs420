@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EmbeddedEditorHidden:zhouhuan</key>
+	<false/>
+	<key>ExpandedEditorWidth:zhouhuan:displays([(0, 0), (1470, 956)])</key>
+	<integer>1069</integer>
+	<key>ExpandedItems:zhouhuan</key>
+	<array>
+		<string>F346F48E-FC8B-4786-BEB3-9DCBF852CE8A</string>
+	</array>
+	<key>FileFilterMode:zhouhuan</key>
+	<integer>0</integer>
+	<key>OpenDocuments:zhouhuan</key>
+	<array/>
+	<key>OpenDocumentsExpanded</key>
+	<true/>
+	<key>OpenDocumentsSplitterProportion</key>
+	<real>-0.0018709073900842199</real>
+	<key>ProjectItemsExpanded</key>
+	<true/>
+	<key>ProjectViewVisible</key>
+	<false/>
+	<key>RecentItems:zhouhuan</key>
+	<array/>
+	<key>ScratchpadItemsExpanded</key>
+	<true/>
+	<key>ScratchpadItemsVisible</key>
+	<true/>
+	<key>ShowSCMData:zhouhuan</key>
+	<false/>
+	<key>ToolbarVisible:zhouhuan</key>
+	<false/>
+	<key>ViewSplitterPosition:zhouhuan</key>
+	<real>0.20112253725528717</real>
+	<key>WindowFrame:zhouhuan:displays([(0, 0), (1470, 956)])</key>
+	<string>rect(101,305,880,1374)</string>
+</dict>
+</plist>
