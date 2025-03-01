@@ -60,15 +60,8 @@ void echo_data(int size, double x[], double y[]) {
      *yint = mean_y - (*slope) * mean_x;
 }
 
- **
+/**
   * compute_fx_residues - Calculates estimated values and residuals
-  * @param size: Number of data points
-  * @param x: Array of x values (load)
-  * @param y: Array of y values (compression)
-  * @param slope: Slope of regression line
-  * @param yint: Y-intercept of regression line
-  * @param fx: Array to store estimated y values
-  * @param r: Array to store residuals
   */
 void compute_fx_residues(int size, double x[], double y[], double slope, double yint, double fx[], double r[]) {
     for (int i = 0; i < size; i++) {
